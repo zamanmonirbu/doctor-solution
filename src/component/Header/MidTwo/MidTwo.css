@@ -1,0 +1,14 @@
+.chairStyle{
+    background-image: url(../../../images/bg.png);
+    background-size: cover;
+    background-position: center center;
+}
+.background{
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+    background-color: #464F62;
+}
+.backgroundIMg{
+    width: 500px;
+}
